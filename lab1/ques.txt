@@ -1,0 +1,5 @@
+ count the vowels and consonants
+ count the number of words, chars, spaces, lines
+ count types of numbers from a file
+ count the number of identifiers
+ count the number of printf ans scanfs
